@@ -1,0 +1,1 @@
+This website provides access to all 45 historical text files from Age of Empires II: Definitive Edition. Click one of the civilization to read about its history (texts extracted from AOE2 DE in-game files).
