@@ -12,11 +12,6 @@ function stopAudio()
     }
 }
 
-function mainTheme()
-{
-    document.getElementById("mt").play();
-}
-
 function Armenians()
 {
     document.getElementById("dishead").innerHTML = "Armenians";
