@@ -278,7 +278,7 @@ function French()
     document.getElementById("display6").innerHTML = "From 1337 to 1453 France and England fought the long conflict called the Hundred Years War to decide ownership of lands in France that had been inherited by English kings. The eventual French victory confirmed the king as the most powerful political force in France.";
     document.getElementById("display7").innerHTML = "";
     document.getElementById("display8").innerHTML = "";
-    document.getElementById("imgdisplay").innerHTML = '<div style="background-color: blanchedalmond;"><img src="history_celts.png"></div>';
+    document.getElementById("imgdisplay").innerHTML = '<div style="background-color: blanchedalmond;"><img src="history_franks.png"></div>';
     stopAudio();
     document.getElementById("16").play();
     document.getElementById("France").style.backgroundColor = 'darkgrey';
