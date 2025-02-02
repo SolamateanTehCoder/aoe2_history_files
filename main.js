@@ -776,3 +776,8 @@ function Viking()
     document.getElementById("Vikings").style.backgroundColor = 'darkgrey';
     document.getElementById("45").play();
 }
+
+function AIPodcast(){
+    stopAudio();
+    document.getElementById("podcast").play();
+}
